@@ -1,0 +1,292 @@
+@media(min-width:300px) and (max-width:1199px) {
+    #firstdiv {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+
+    }
+}
+#ft{
+    height: 20cm;
+}
+
+#backgroundbearer {
+    background-image: url(/img/4.jpg);
+    background-size: auto;
+    background-repeat: no-repeat;
+    object-fit: cover;
+
+    
+
+    
+} 
+
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+#btn:hover {
+    background-color: white;
+    color: black;
+}
+
+#btn {
+    color: white;
+}
+
+#mid {
+    justify-content: center;
+    gap: 2cm;
+    margin-top: 3cm;
+    background-color: aliceblue;
+    padding: 2cm;
+    text-align: center;
+}
+
+.form_action:hover { 
+    box-shadow: 1px 1px 15px 1px rgba(0, 200, 250, 0.9);
+    border: none;
+} 
+
+@media(min-width:300px) and (max-width:1199px) {
+    #backgroundbearer {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+
+    }
+}
+
+.pics {
+    width: 3cm;
+    height: 2cm;
+}
+
+@media(min-width:300px) and (max-width:1199px) {
+    #third {
+        display: flex;
+        flex-direction: column;
+
+    }
+}
+  #support{
+    background-image: url(/img/background-4.png);
+    background-size: auto;
+    height: 60rem;
+    background-position: center;
+    padding-top: 3cm;
+} 
+
+
+@media(min-width:300px) and (max-width:1199px) {
+    #support {
+        display: flex;
+        flex-direction: column;
+        justify-content: left;
+        padding: none;
+    }
+} 
+
+#stay{
+    font-size: xx-small;
+    text-align: center;
+}
+.footer:hover{
+    color: blue;
+}
+@media(min-width:300px) and (max-width:991px) {
+    #foot {
+        display: flex;
+        flex-direction: column;
+        justify-content: left;
+        padding: none;
+    }
+} 
+.blue:hover{
+    color: blue;
+}
+#ma{
+    padding: 5px; 
+    background-color: whitesmoke;
+    /* box-shadow: 2px 3px 3px; */
+     border: solid white; 
+    border-radius: 5px;
+    font-size: small;
+
+}
+#mb{
+    padding: 5px; 
+    background-color: whitesmoke;
+    /* box-shadow: 2px 3px 3px; */
+    font-size: small;
+}
+
+#mc{
+    padding: 5px; 
+    background-color: whitesmoke;
+    /* box-shadow: 2px 3px 3px; */
+    border: solid white;
+    border-radius: 5px;
+    font-size: small;
+}
+
+#md{
+    padding: 5px; 
+    background-color: whitesmoke;
+    /* box-shadow: 2px 3px 3px; */
+    border: solid white;
+    border-radius: 5px;
+    font-size: small;
+}
+#me{
+    padding: 5px; 
+    background-color: whitesmoke;
+    /* box-shadow: 2px 3px 3px; */
+    border: solid white;
+    border-radius: 5px;
+    font-size: small;
+} 
+#mf{
+    padding: 5px; 
+    background-color: whitesmoke;
+    /* box-shadow: 2px 3px 3px; */
+    border: solid white;
+    border-radius: 5px;
+    font-size: small;
+}
+#mg{
+    padding: 5px; 
+    background-color: whitesmoke;
+    /* box-shadow: 2px 3px 3px; */
+    border: solid white;
+    border-radius: 5px;
+    font-size: small;
+}
+#mh{
+    padding: 5px; 
+    background-color: whitesmoke;
+     /* box-shadow: 2px 3px 3px; */
+     border: solid white;
+     border-radius: 5px;
+     font-size: small;
+} 
+#mi{
+    padding: 5px; 
+    background-color: whitesmoke;
+    /* box-shadow: 2px 3px 3px; */
+    border: solid white;
+    border-radius: 5px;
+    font-size: small;
+}
+#mj{
+    padding: 5px; 
+    background-color: whitesmoke;
+    border: solid white;
+    border-radius: 5px;
+    font-size: small;
+}
+#mk{
+    padding: 5px; 
+    background-color: whitesmoke;
+    border: solid white;
+    border-radius: 5px;
+    font-size: small;
+
+}
+#ml{
+    padding: 5px; 
+    background-color: whitesmoke;
+    border: solid white ;
+    border-radius: 5px;
+    font-size: small;
+}
+#mm{
+    padding: 5px; 
+    background-color: whitesmoke;
+    border: solid white;
+    border-radius: 5px;
+    font-size: small;
+}
+#ma:hover{
+    color: white;
+    background-color:orange ;
+
+}
+#mb:hover{
+    color: white;
+    background-color: cornflowerblue ;
+}
+#mc:hover{
+    color: white;
+    background-color:dodgerblue; 
+}
+#md:hover{
+    color: white;
+    background-color: crimson ;
+}
+#me:hover{
+    color: white;
+    background-color: crimson ;
+}
+#mf:hover{
+    color: white;
+    background-color: crimson ;
+}
+#mg:hover{
+    color: white;
+    background-color: darkgoldenrod ;
+}
+#mh:hover{
+    color: white;
+    background-color:pink ;
+}
+#mi:hover{
+    color: white;
+    background-color: deepskyblue ;
+}
+#mj:hover{
+    color: white;
+    background-color:dodgerblue; ;
+}
+#mk:hover{
+    color: white;
+    background-color:blue ;
+}
+#ml:hover{
+    color: white;
+    background-color:pink ;
+}
+#mm:hover{
+    color: white;
+    background-color: dodgerblue;
+}
+input[type='text'], input[type='email'] {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 0.5rem 0.7rem;
+    transition: border-color 0.15s, box-shadow 0.15s;
+}
+
+input[type='text']:focus, input[type='email']:focus {
+    border-color: #7db0fb;
+    outline: 0;
+    box-shadow: 0 0 0 4px rgba(24, 177, 255, 0.25);
+}
+
+.input_txt:focus {
+    box-shadow: none;
+}
+.textarea{
+    outline: none;
+   
+    border-radius: 5px;
+    padding: 0.5rem 0.7rem;
+    transition: border-color 0.15s, box-shadow 0.15s;
+}
+
+.textarea:focus{
+    border-color: #7db0fb;
+    outline: 0;
+    box-shadow: 0 0 0 4px rgba(24, 177, 255, 0.25);
+}
+
